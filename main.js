@@ -1,4 +1,4 @@
-const api="https://pixabay.com/api/?key=13631321-4aefdeba668385349cf1f3945"
+const api="your api key"
 
 const form = document.querySelector('form');
 const input = document.querySelector('input');
